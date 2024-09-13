@@ -6,9 +6,7 @@
 
 - 🌱 I’m currently learning **C#**
 
-- 👨‍💻 All of my projects are available at [https://naomieniola.github.io/portfolio/](https://naomieniola.github.io/portfolio/)
-
-- 💬 Ask me about **HTML, CSS, PHP**
+- 💬 Ask me about **HTML, CSS, C#**
 
 - 📫 How to reach me **naomiadesiyan@hotmail.com**
 
