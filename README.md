@@ -1,12 +1,10 @@
 <h1 align="center">Hi 👋, I'm Naomi Eniola</h1>
-<h3 align="center">A passionate software developer from London, UK</h3>
+<h3 align="center">An aspiring software developer from London, UK</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn-media-1.freecodecamp.org/code-radio/Saron3.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=naomieniola&label=Profile%20views&color=0e75b6&style=flat" alt="naomieniola" /> </p>
 
 - 🌱 I’m currently learning **C#**
-
-- 💬 Ask me about **HTML, CSS, C#**
 
 - 📫 How to reach me **naomiadesiyan@hotmail.com**
 
