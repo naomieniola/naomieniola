@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=naomieniola&label=Profile%20views&color=0e75b6&style=flat" alt="naomieniola" /> </p>
 
-- 🌱 I’m currently learning **C# and React**
+- 🌱 I’m currently learning **Python**
 
 - 📫 How to reach me **naomiadesiyan@hotmail.com**
 
